@@ -1,0 +1,2 @@
+go run .
+需要redis mysql环境，具体配置config下yml
